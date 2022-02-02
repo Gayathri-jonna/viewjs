@@ -1,4 +1,4 @@
-# viewjs
+# vuejsproject
 
 > A Vue.js project
 
